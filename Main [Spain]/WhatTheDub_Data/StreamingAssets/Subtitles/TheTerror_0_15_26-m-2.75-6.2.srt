@@ -1,0 +1,8 @@
+﻿1
+00:00:00,420 --> 00:00:02,140
+Hombre 1: La chica intentó matarme.
+
+2
+00:00:02,740 --> 00:00:06,200
+Hombre 2: [male_dub]
+

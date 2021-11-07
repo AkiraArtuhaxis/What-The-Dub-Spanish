@@ -1,0 +1,12 @@
+﻿1
+00:00:00,800 --> 00:00:02,180
+Hombre: Aquí Johnson, en la comisaría 86.
+
+2
+00:00:02,180 --> 00:00:07,200
+[male_dub]
+
+3
+00:00:07,900 --> 00:00:10,980
+¡No he estado bebiendo!
+

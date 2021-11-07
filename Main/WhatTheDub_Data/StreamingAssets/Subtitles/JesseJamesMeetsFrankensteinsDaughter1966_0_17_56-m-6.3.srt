@@ -1,0 +1,16 @@
+﻿1
+00:00:00,000 --> 00:00:01,820
+Hombre 1: Cien mil dólares.
+
+2
+00:00:02,320 --> 00:00:03,920
+Hombre 2: Pensé que te gustaría la idea.
+
+3
+00:00:04,100 --> 00:00:06,140
+Hombre 1: Eso es muchísimo dinero. ¿Estás seguro?
+
+4
+00:00:06,300 --> 00:00:12,320
+Hombre 2: [male_dub]
+

@@ -1,0 +1,12 @@
+﻿1
+00:00:00,000 --> 00:00:01,780
+Hombre 1: Le paralizará para siempre. 
+
+2
+00:00:02,120 --> 00:00:04,380
+Hombre 2: ¿Cómo prefiere que esté, paralizado o muerto?
+
+3
+00:00:04,560 --> 00:00:12,600
+Hombre 1: [male_dub]
+

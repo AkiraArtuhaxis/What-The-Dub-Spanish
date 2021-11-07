@@ -1,0 +1,12 @@
+﻿1
+00:00:00,000 --> 00:00:03,140
+Reportero: Nos cuesta creer lo que les estamos contando,
+
+2
+00:00:03,140 --> 00:00:04,520
+pero parece ser un hecho.
+
+3
+00:00:05,840 --> 00:00:09,720
+[male_dub]
+

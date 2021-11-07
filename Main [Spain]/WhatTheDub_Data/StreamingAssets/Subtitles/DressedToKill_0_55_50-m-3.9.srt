@@ -1,0 +1,8 @@
+﻿1
+00:00:00,220 --> 00:00:03,520
+Mujer: Me temo que estos caballeros tienen una penosa tarea que cumplir.
+
+2
+00:00:03,900 --> 00:00:11,400
+Hombre: [male_dub]
+

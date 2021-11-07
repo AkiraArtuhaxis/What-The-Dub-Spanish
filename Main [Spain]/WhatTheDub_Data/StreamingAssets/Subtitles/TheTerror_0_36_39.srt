@@ -1,0 +1,12 @@
+﻿1
+00:00:00,000 --> 00:00:01,800
+Hombre 1: Una pregunta más, barón.
+
+2
+00:00:02,320 --> 00:00:05,960
+[male_dub]
+
+3
+00:00:09,160 --> 00:00:14,200
+Hombre 2: Cree que estoy loco, ¿verdad?
+

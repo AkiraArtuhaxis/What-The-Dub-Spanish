@@ -1,0 +1,16 @@
+﻿1
+00:00:00,000 --> 00:00:02,020
+Hombre 1: Eres el único al que puedo acudir.
+
+2
+00:00:02,360 --> 00:00:04,580
+Necesito tu ayuda desesperadamente.
+
+3
+00:00:04,900 --> 00:00:06,020
+Hombre 2: ¿De qué se trata?
+
+4
+00:00:07,420 --> 00:00:14,500
+Hombre 1: [male_dub]
+

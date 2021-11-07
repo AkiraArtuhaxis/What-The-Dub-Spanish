@@ -1,0 +1,12 @@
+﻿1
+00:00:00,000 --> 00:00:02,520
+Hombre 1: Parece un sitio sensacional para pasar el fin de semana.
+
+2
+00:00:02,520 --> 00:00:04,520
+¿Se podrá pescar?
+
+3
+00:00:05,040 --> 00:00:10,360
+Hombre 2: [male_dub]
+

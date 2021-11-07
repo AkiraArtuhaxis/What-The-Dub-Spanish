@@ -1,0 +1,16 @@
+﻿1
+00:00:00,000 --> 00:00:02,220
+Mujer: ¿Y qué tal Nora? No es estúpida, ¿sabes?
+
+2
+00:00:02,220 --> 00:00:03,280
+Hombre: Querida créeme
+
+3
+00:00:03,280 --> 00:00:05,280
+todo lo que hemos planeado está funcionando a la perfección.
+
+4
+00:00:05,940 --> 00:00:09,300
+[male_dub]
+

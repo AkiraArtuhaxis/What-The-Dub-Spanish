@@ -1,0 +1,12 @@
+﻿1
+00:00:01,000 --> 00:00:03,940
+Mujer: No sé por qué estoy tan loca por ti.
+
+2
+00:00:03,940 --> 00:00:05,940
+Hombre: Sí que lo sabes.
+
+3
+00:00:06,380 --> 00:00:10,000
+[male_dub]
+

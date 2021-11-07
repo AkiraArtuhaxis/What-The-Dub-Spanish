@@ -1,0 +1,12 @@
+﻿1
+00:00:00,000 --> 00:00:03,340
+Hombre: No debes volver a ver a ese joven esta noche.
+
+2
+00:00:03,880 --> 00:00:04,760
+Mujer: ¿Por qué no?
+
+3
+00:00:04,760 --> 00:00:09,920
+Hombre: [male_dub]
+

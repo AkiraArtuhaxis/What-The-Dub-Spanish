@@ -1,0 +1,12 @@
+﻿1
+00:00:00,000 --> 00:00:02,240
+Mujer: ¿Por qué me hace estas preguntas?
+
+2
+00:00:02,240 --> 00:00:03,680
+Hombre: Bueno, digámoslo así.
+
+3
+00:00:04,100 --> 00:00:08,980
+[male_dub]
+

@@ -1,0 +1,20 @@
+﻿1
+00:00:00,000 --> 00:00:02,140
+Hombre 1: ¿Qué le pasó a la baronesa?
+
+2
+00:00:02,140 --> 00:00:03,520
+¿Tuvo una muerte violenta?
+
+3
+00:00:03,520 --> 00:00:05,400
+Hombre 2: Sí, ¡su muerte fue violenta!
+
+4
+00:00:05,400 --> 00:00:06,900
+Hombre 1: ¿Cómo murió?
+
+5
+00:00:07,300 --> 00:00:15,180
+Hombre 2: [male_dub]
+

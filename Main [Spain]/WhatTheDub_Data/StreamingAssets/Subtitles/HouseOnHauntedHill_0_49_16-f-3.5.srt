@@ -1,0 +1,12 @@
+﻿1
+00:00:00,000 --> 00:00:01,340
+Hombre 1: Soy el único que lo entiende.
+
+2
+00:00:01,340 --> 00:00:02,340
+Hombre 2: ¿Que entiende qué?
+
+3
+00:00:03,500 --> 00:00:08,760
+Hombre 1: [male_dub]
+

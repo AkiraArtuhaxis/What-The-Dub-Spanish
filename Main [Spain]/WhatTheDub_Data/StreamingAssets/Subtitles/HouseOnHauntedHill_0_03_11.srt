@@ -1,0 +1,12 @@
+﻿1
+00:00:01,020 --> 00:00:03,660
+Hombre: Este es el doctor David Trent, un psiquiatra. 
+
+2
+00:00:04,260 --> 00:00:05,100
+Afirma que
+
+3
+00:00:05,100 --> 00:00:08,100
+[male_dub]
+

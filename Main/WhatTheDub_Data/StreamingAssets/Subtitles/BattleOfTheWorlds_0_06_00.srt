@@ -1,0 +1,16 @@
+﻿1
+00:00:00,220 --> 00:00:01,120
+Hombre 1: Vamos.
+
+2
+00:00:02,340 --> 00:00:04,900
+Mujer: ¿Puedes decirme por qué la cara de pez está tan frenética?
+
+3
+00:00:05,100 --> 00:00:05,940
+Hombre 2: ¿George?
+
+4
+00:00:07,740 --> 00:00:16,860
+[male_dub]
+

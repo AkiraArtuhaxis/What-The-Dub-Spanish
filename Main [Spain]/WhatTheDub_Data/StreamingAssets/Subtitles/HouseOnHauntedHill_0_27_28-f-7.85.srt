@@ -1,0 +1,16 @@
+﻿1
+00:00:01,320 --> 00:00:02,540
+Mujer 1: ¿Por qué has venido?
+
+2
+00:00:03,260 --> 00:00:05,200
+Mujer 2: Él dijo que me daría diez mil dólares.
+
+3
+00:00:06,280 --> 00:00:07,480
+Mujer 1: ¿Por qué te eligió?
+
+4
+00:00:07,880 --> 00:00:13,460
+Mujer 2: [female_dub]
+

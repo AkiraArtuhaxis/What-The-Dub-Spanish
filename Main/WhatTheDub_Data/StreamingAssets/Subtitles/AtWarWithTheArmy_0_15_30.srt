@@ -1,0 +1,20 @@
+﻿1
+00:00:00,000 --> 00:00:01,660
+Hombre: ¿Para qué querías verlo?
+
+2
+00:00:02,260 --> 00:00:04,800
+Mujer: Es de naturaleza bastante personal.
+
+3
+00:00:05,000 --> 00:00:06,380
+Hombre: ¿Le gustaría dejar un mensaje?
+
+4
+00:00:06,640 --> 00:00:07,540
+Mujer: Sí
+
+5
+00:00:07,540 --> 00:00:12,140
+[female_dub]
+

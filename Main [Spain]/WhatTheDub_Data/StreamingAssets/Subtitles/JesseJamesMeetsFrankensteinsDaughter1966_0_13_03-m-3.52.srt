@@ -1,0 +1,12 @@
+﻿1
+00:00:00,600 --> 00:00:02,020
+Descamisado: Será mejor que pague, señor.
+
+2
+00:00:02,020 --> 00:00:02,980
+Hombre 2: ¿Por qué debería hacerlo?
+
+3
+00:00:03,520 --> 00:00:07,480
+Descamisado: [male_dub]
+

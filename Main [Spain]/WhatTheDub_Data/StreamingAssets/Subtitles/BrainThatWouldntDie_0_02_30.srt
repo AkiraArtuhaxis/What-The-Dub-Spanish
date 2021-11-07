@@ -1,0 +1,12 @@
+﻿1
+00:00:00,000 --> 00:00:01,660
+Hombre 1: El quirófano no es lugar para
+
+2
+00:00:01,660 --> 00:00:03,140
+[male_dub]
+
+3
+00:00:03,140 --> 00:00:05,780
+Hombre 2: Ya está muerto. No le hará daño.
+

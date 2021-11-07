@@ -1,0 +1,16 @@
+﻿1
+00:00:00,000 --> 00:00:02,780
+Hombre: Nora, creo que estás algo alterada.
+
+2
+00:00:03,320 --> 00:00:04,680
+¿Quieres tomar un sedante?
+
+3
+00:00:04,880 --> 00:00:11,600
+Mujer: [female_dub]
+
+4
+00:00:12,100 --> 00:00:13,260
+Mujer: (Gime)
+

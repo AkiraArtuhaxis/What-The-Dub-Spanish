@@ -1,0 +1,12 @@
+﻿1
+00:00:01,000 --> 00:00:02,580
+Hombre 1: Bien, ¿dónde está todo el mundo?
+
+2
+00:00:03,080 --> 00:00:05,260
+Mujer: No es una bienvenida muy cálida, ¿verdad?
+
+3
+00:00:05,640 --> 00:00:12,660
+Hombre 2: [male_dub]
+

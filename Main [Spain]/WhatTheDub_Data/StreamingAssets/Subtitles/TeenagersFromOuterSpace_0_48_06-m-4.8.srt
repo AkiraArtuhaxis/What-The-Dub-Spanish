@@ -1,0 +1,12 @@
+﻿1
+00:00:00,000 --> 00:00:03,060
+Hombre 1: El capitán debió dejar que te matara cuando tuve ocasión.
+
+2
+00:00:03,520 --> 00:00:04,800
+Hombre 2: ¿Y por qué no lo hizo?
+
+3
+00:00:04,800 --> 00:00:09,540
+Hombre 1: [male_dub]
+

@@ -1,0 +1,12 @@
+﻿1
+00:00:00,420 --> 00:00:03,880
+Hombre 1: Sin embargo, nuestras vidas y las de nuestros compatriotas están en sus manos.
+
+2
+00:00:03,880 --> 00:00:05,600
+Hombre 2: ¿Cuáles son sus órdenes comandante?
+
+3
+00:00:05,700 --> 00:00:10,660
+Hombre 1: [male_dub]
+

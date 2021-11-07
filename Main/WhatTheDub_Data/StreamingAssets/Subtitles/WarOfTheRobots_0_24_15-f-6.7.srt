@@ -1,0 +1,12 @@
+﻿1
+00:00:01,420 --> 00:00:03,480
+Mujer: Y salen las botas como siempre. (Se ríe)
+
+2
+00:00:03,480 --> 00:00:04,700
+Hombre: Sí que estás en lo cierto.
+
+3
+00:00:06,700 --> 00:00:12,540
+Mujer: [female_dub]
+

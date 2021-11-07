@@ -1,0 +1,8 @@
+﻿1
+00:00:00,000 --> 00:00:04,640
+Hombre: Antes de que empiece la fiesta, repasemos los detalles.
+
+2
+00:00:05,200 --> 00:00:14,100
+[male_dub]
+

@@ -1,0 +1,12 @@
+﻿1
+00:00:00,000 --> 00:00:03,260
+Narrador: Aquí están de camino a la escuela en un hermoso día de primavera.
+
+2
+00:00:03,260 --> 00:00:05,660
+Pero no importa a dónde vayan o lo que hagan, 
+
+3
+00:00:05,660 --> 00:00:13,340
+[male_dub]
+

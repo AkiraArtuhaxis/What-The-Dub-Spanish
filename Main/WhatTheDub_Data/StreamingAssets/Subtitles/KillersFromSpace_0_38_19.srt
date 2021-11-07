@@ -1,0 +1,12 @@
+﻿1
+00:00:00,000 --> 00:00:04,300
+Hombre en pantalla: (Hablando en idioma desconocido)
+
+2
+00:00:04,300 --> 00:00:05,420
+Hombre 1: ¿Qué fue eso?
+
+3
+00:00:05,700 --> 00:00:10,480
+Hombre 2: [male_dub]
+

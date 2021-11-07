@@ -1,0 +1,8 @@
+﻿1
+00:00:00,000 --> 00:00:01,880
+Mujer: Johnny, tardarás cinco minutos.
+
+2
+00:00:01,960 --> 00:00:08,760
+Hombre: [male_dub]
+

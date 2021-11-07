@@ -1,0 +1,16 @@
+﻿1
+00:00:00,000 --> 00:00:01,840
+Hombre: Se envió un equipo de rescate, pero...
+
+2
+00:00:01,840 --> 00:00:03,840
+Mujer: Habrán llegado a los restos hace horas.
+
+3
+00:00:04,580 --> 00:00:05,880
+¿Por qué no le encuentran?
+
+4
+00:00:06,500 --> 00:00:12,160
+Hombre: [male_dub]
+

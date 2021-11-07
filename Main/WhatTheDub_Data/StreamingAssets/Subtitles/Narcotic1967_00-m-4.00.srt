@@ -1,0 +1,12 @@
+﻿1
+00:00:00,000 --> 00:00:03,120
+Narrador: Para John, su primera fiesta de hierba parece emocionante.
+
+2
+00:00:03,120 --> 00:00:04,000
+Lo mejor de todo,
+
+3
+00:00:04,000 --> 00:00:07,460
+[male_dub]
+

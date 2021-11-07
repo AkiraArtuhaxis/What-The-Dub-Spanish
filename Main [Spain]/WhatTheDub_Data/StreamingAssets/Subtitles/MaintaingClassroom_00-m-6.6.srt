@@ -1,0 +1,16 @@
+﻿1
+00:00:00,200 --> 00:00:03,060
+Maestro: Sólo me ausenté unos minutos, ¿y qué me encuentro?
+
+2
+00:00:03,060 --> 00:00:04,620
+Confusión. Desorden.
+
+3
+00:00:05,040 --> 00:00:06,260
+Y tú, ¿qué estabas haciendo?
+
+4
+00:00:06,520 --> 00:00:08,700
+Alumno: [male_dub]
+

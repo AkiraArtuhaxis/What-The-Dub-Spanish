@@ -1,0 +1,12 @@
+﻿1
+00:00:00,000 --> 00:00:02,560
+Niño: Mañana voy a la fiesta de Mary. ¿Y tú?
+
+2
+00:00:02,560 --> 00:00:08,340
+Niña: [female_dub]
+
+3
+00:00:08,340 --> 00:00:10,340
+Niño: Esperaba que fueras.
+

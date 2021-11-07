@@ -1,0 +1,12 @@
+﻿1
+00:00:00,000 --> 00:00:02,140
+Hombre 1: Si no te dejaban matarme,
+
+2
+00:00:02,660 --> 00:00:04,560
+¿por qué me disparaste en la ciudad?
+
+3
+00:00:04,820 --> 00:00:07,860
+Hombre 2: [male_dub]
+

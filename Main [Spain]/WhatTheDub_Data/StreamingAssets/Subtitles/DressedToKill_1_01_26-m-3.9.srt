@@ -1,0 +1,12 @@
+﻿1
+00:00:00,200 --> 00:00:01,800
+Mujer: Mi única hermana ha desaparecido
+
+2
+00:00:01,800 --> 00:00:04,080
+y la policía local no es capaz de encontrarla.
+
+3
+00:00:04,080 --> 00:00:11,900
+Hombre: [male_dub]
+

@@ -1,0 +1,16 @@
+﻿1
+00:00:00,000 --> 00:00:02,080
+Entrenador: Los chicos se están esforzando mucho.
+
+2
+00:00:02,120 --> 00:00:03,740
+Quizá os gustaría conocer a alguno de ellos.
+
+3
+00:00:04,420 --> 00:00:05,360
+Ese de allí es Bill.
+
+4
+00:00:05,360 --> 00:00:10,900
+[male_dub]
+

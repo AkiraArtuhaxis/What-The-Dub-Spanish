@@ -1,0 +1,12 @@
+﻿1
+00:00:01,300 --> 00:00:03,820
+Mujer: ¿Alguien ahí arriba sabe por qué nos atacan?
+
+2
+00:00:03,820 --> 00:00:04,920
+Hombre: (Suspira)
+
+3
+00:00:05,500 --> 00:00:11,840
+[male_dub]
+

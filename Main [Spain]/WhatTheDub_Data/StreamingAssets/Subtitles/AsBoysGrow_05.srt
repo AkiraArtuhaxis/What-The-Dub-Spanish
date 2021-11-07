@@ -1,0 +1,28 @@
+﻿1
+00:00:00,000 --> 00:00:00,640
+Entrenador: La pubertad.
+
+2
+00:00:00,640 --> 00:00:02,640
+Niño 1: ¿La pubertad? ¿Qué es eso?
+
+3
+00:00:02,880 --> 00:00:04,820
+Entrenador: Bueno, explicarlo me llevaría un rato.
+
+4
+00:00:04,940 --> 00:00:06,000
+Quizá más tarde, ¿vale?
+
+5
+00:00:06,000 --> 00:00:06,940
+Niño 2: Sí, pero ¿cuándo?
+
+6
+00:00:06,940 --> 00:00:09,300
+Entrenador: [male_dub]
+
+7
+00:00:09,300 --> 00:00:11,300
+Niño 2: Ah, vale.
+

@@ -1,0 +1,12 @@
+﻿1
+00:00:00,000 --> 00:00:01,360
+Hombre: Lo siento, yo...
+
+2
+00:00:01,800 --> 00:00:03,100
+lamento haber actuado de esa manera.
+
+3
+00:00:03,580 --> 00:00:06,240
+[male_dub]
+

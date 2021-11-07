@@ -1,0 +1,8 @@
+﻿1
+00:00:00,700 --> 00:00:02,660
+Hombre 1: Lee lo que tiene grabado dentro, Chris.
+
+2
+00:00:05,940 --> 00:00:08,700
+Hombre 2: [male_dub]
+

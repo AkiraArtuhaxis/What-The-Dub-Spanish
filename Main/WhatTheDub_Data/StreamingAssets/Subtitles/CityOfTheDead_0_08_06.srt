@@ -1,0 +1,12 @@
+﻿1
+00:00:00,000 --> 00:00:02,360
+Mujer: Siento que necesito una investigación de primera mano.
+
+2
+00:00:02,360 --> 00:00:08,080
+[female_dub]
+
+3
+00:00:08,680 --> 00:00:10,560
+Hombre: Bueno, eso puede llevar algo de tiempo, ¿sabes?
+

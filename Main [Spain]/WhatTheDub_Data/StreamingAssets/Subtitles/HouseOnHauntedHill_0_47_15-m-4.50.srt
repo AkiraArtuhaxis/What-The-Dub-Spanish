@@ -1,0 +1,12 @@
+﻿1
+00:00:00,600 --> 00:00:02,880
+Hombre 1: Estoy seguro de que ha alcanzado la misma conclusión que yo.
+
+2
+00:00:03,280 --> 00:00:04,500
+Hombre 2: Sí, eso creo.
+
+3
+00:00:04,500 --> 00:00:09,200
+Hombre 1: [male_dub]
+

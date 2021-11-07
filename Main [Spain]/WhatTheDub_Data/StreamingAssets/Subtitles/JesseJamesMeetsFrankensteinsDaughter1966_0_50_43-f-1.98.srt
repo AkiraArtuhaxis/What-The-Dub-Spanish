@@ -1,0 +1,8 @@
+﻿1
+00:00:00,000 --> 00:00:01,800
+Hombre: ¿Por qué quieres que me vaya?
+
+2
+00:00:01,960 --> 00:00:07,180
+Mujer: [female_dub]
+

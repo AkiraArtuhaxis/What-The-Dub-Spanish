@@ -1,0 +1,8 @@
+﻿1
+00:00:00,360 --> 00:00:04,600
+Hombre 1: ¿Podrías decirme el significado de la inscripción en esta pieza de metal?
+
+2
+00:00:06,500 --> 00:00:10,000
+Hombre 2: [male_dub]
+

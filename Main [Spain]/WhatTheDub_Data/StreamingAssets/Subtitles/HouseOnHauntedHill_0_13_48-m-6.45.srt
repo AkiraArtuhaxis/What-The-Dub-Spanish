@@ -1,0 +1,12 @@
+﻿1
+00:00:01,320 --> 00:00:04,120
+Hombre: Si alguno de ustedes decide no quedarse a la fiesta,
+
+2
+00:00:04,120 --> 00:00:05,840
+debe hacérmelo saber antes de medianoche.
+
+3
+00:00:06,440 --> 00:00:14,180
+[male_dub]
+

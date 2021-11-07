@@ -1,0 +1,12 @@
+﻿1
+00:00:00,000 --> 00:00:01,560
+Hombre 1: ¿Por qué ha venido al castillo Von Leppe?
+
+2
+00:00:01,560 --> 00:00:02,540
+¿Qué se le ha perdido aquí?
+
+3
+00:00:03,100 --> 00:00:07,780
+Hombre 2: [male_dub]
+

@@ -1,0 +1,8 @@
+﻿1
+00:00:00,320 --> 00:00:01,940
+Doctor: ¿No recuerda cómo se hizo esto?
+
+2
+00:00:02,060 --> 00:00:06,820
+Paciente: [male_dub]
+

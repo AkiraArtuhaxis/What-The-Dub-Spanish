@@ -1,0 +1,12 @@
+﻿1
+00:00:00,360 --> 00:00:01,440
+Hombre 1: ¿Así que, en qué piensas?
+
+2
+00:00:01,440 --> 00:00:05,820
+Hombre 2: [male_dub]
+
+3
+00:00:06,180 --> 00:00:08,640
+Hombre 1: ¿En serio? ¿Estás bastante seguro?
+

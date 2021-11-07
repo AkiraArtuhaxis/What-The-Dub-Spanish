@@ -1,0 +1,12 @@
+﻿1
+00:00:00,000 --> 00:00:01,700
+Hombre: La Srta. Jones me ha estado ayudando.
+
+2
+00:00:01,700 --> 00:00:03,980
+[male_dub]
+
+3
+00:00:03,980 --> 00:00:08,400
+Mujer: (Ríe) Para una mujer, quiere decir.
+

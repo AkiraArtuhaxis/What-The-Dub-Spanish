@@ -1,0 +1,8 @@
+﻿1
+00:00:00,360 --> 00:00:03,380
+Locutor: En estos momentos, repetimos, estos son los hechos que sabemos.
+
+2
+00:00:03,540 --> 00:00:08,860
+[male_dub]
+

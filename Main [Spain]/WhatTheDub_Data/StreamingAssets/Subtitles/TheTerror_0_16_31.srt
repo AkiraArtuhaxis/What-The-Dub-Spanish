@@ -1,0 +1,12 @@
+﻿1
+00:00:00,300 --> 00:00:02,420
+Hombre: Podría mostrarme el camino al castillo.
+
+2
+00:00:03,140 --> 00:00:05,600
+Mujer: ¿Por qué le interesa tanto el barón?
+
+3
+00:00:06,500 --> 00:00:11,260
+Hombre: [male_dub]
+

@@ -1,0 +1,12 @@
+﻿1
+00:00:00,000 --> 00:00:02,340
+Hombre: Pero estaba a punto de contarte algo interesante.
+
+2
+00:00:04,360 --> 00:00:05,900
+Algo muy interesante.
+
+3
+00:00:06,080 --> 00:00:09,280
+[male_dub]
+

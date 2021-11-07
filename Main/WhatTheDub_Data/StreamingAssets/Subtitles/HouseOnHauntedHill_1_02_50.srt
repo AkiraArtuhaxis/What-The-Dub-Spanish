@@ -1,0 +1,8 @@
+﻿1
+00:00:03,380 --> 00:00:05,540
+Hombre 1: ¿Una admisión de culpabilidad doctor?
+
+2
+00:00:05,700 --> 00:00:09,880
+Hombre 2: [male_dub]
+

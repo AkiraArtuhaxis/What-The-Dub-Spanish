@@ -1,0 +1,20 @@
+﻿1
+00:00:00,000 --> 00:00:01,140
+Dibujo animado: Adiós, Larry.
+
+2
+00:00:01,540 --> 00:00:02,720
+Niño: Adiós, Tiziano.
+
+3
+00:00:02,720 --> 00:00:03,600
+Dibujo animado: No lo olvides,
+
+4
+00:00:03,600 --> 00:00:05,840
+en la escuela, y en todas partes,
+
+5
+00:00:05,840 --> 00:00:08,660
+[male_dub]
+

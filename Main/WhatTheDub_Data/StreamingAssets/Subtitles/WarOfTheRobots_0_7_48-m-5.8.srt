@@ -1,0 +1,8 @@
+﻿1
+00:00:02,200 --> 00:00:05,740
+Hombre: Según Lois, el profesor estaba al borde de un descubrimiento importante.
+
+2
+00:00:05,740 --> 00:00:08,400
+[male_dub]
+

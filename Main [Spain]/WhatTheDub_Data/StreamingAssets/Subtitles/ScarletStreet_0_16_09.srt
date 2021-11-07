@@ -1,0 +1,12 @@
+﻿1
+00:00:00,000 --> 00:00:01,720
+Hombre: Gatita, ¿quién es Johnny?
+
+2
+00:00:03,560 --> 00:00:04,800
+Mujer: ¿Por qué lo preguntas?
+
+3
+00:00:04,800 --> 00:00:07,540
+Hombre: [male_dub]
+

@@ -1,0 +1,16 @@
+﻿1
+00:00:00,000 --> 00:00:01,840
+Chica: ¿Puedes ir a patinar con nosotros afuera?
+
+2
+00:00:01,840 --> 00:00:03,220
+Está bien.
+
+3
+00:00:03,400 --> 00:00:07,420
+Chico: [male_dub]
+
+4
+00:00:07,640 --> 00:00:12,440
+Chica: Oh bueno...
+

@@ -1,0 +1,12 @@
+﻿1
+00:00:00,280 --> 00:00:02,000
+Hombre: ¿Por qué nos atacasteis con las dos naves?
+
+2
+00:00:02,000 --> 00:00:04,360
+Podríais haber destruido el único modo de ayudaros.
+
+3
+00:00:04,880 --> 00:00:11,760
+Máquina: [male_dub]
+

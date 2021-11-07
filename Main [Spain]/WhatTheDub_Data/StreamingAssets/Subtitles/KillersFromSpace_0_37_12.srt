@@ -1,0 +1,12 @@
+﻿1
+00:00:00,000 --> 00:00:04,420
+Marciano: Nuestras naves han sido vistas numerosas veces por los tuyos.
+
+2
+00:00:04,420 --> 00:00:06,420
+Hombre: ¿Y por qué no hemos podido acercarnos a ninguna?
+
+3
+00:00:06,800 --> 00:00:12,760
+Marciano: [male_dub]
+

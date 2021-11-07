@@ -1,0 +1,12 @@
+﻿1
+00:00:00,500 --> 00:00:02,800
+Hombre: Es un país bastante bonito.
+
+2
+00:00:02,800 --> 00:00:05,040
+¿Por qué se fueron todos menos Juanita?
+
+3
+00:00:05,140 --> 00:00:11,600
+Mujer: [female_dub]
+

@@ -1,0 +1,12 @@
+﻿1
+00:00:00,300 --> 00:00:03,100
+Hombre 1: ¿Sigue metiendo las narices en los asuntos ajenos como siempre?
+
+2
+00:00:03,100 --> 00:00:03,880
+¿Quién le pegó?
+
+3
+00:00:03,880 --> 00:00:08,520
+Hombre 2: [male_dub]
+

@@ -1,0 +1,12 @@
+﻿1
+00:00:01,280 --> 00:00:03,240
+Mujer 1: ¿Qué hacías deambulando sola?
+
+2
+00:00:04,120 --> 00:00:10,500
+Mujer 2: [female_dub]
+
+3
+00:00:12,360 --> 00:00:13,560
+Mujer 1: No lo vuelvas a hacer.
+

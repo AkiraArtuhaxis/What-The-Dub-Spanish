@@ -1,0 +1,12 @@
+﻿1
+00:00:00,260 --> 00:00:03,000
+Hombre 1: Se merecen lo que les espera.
+
+2
+00:00:03,320 --> 00:00:05,000
+Hombre 2: ¿Qué quiere decir?
+
+3
+00:00:05,460 --> 00:00:11,840
+Hombre 1: [male_dub]
+

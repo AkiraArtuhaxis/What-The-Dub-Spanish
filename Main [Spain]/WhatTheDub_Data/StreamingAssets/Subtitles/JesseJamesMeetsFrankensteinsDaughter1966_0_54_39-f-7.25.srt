@@ -1,0 +1,16 @@
+﻿1
+00:00:00,000 --> 00:00:01,820
+Mujer: Debe encontrar a Jesse...
+
+2
+00:00:02,200 --> 00:00:04,700
+Sr. Howard, y darle este sobre.
+
+3
+00:00:06,360 --> 00:00:07,240
+Hombre: ¿Qué es?
+
+4
+00:00:07,240 --> 00:00:10,780
+Mujer: [female_dub]
+

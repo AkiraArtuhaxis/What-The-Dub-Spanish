@@ -1,0 +1,8 @@
+﻿1
+00:00:01,100 --> 00:00:03,400
+Hombre 1: ¿Viste algo más en la pantalla del detector de la nave?
+
+2
+00:00:03,800 --> 00:00:09,380
+Hombre 2: [male_dub]
+

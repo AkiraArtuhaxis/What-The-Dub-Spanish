@@ -1,0 +1,16 @@
+﻿1
+00:00:00,300 --> 00:00:03,340
+Mujer: Lo siento, Sr. Holmes, si he hecho algo indebido.
+
+2
+00:00:04,040 --> 00:00:07,860
+[female_dub]
+
+3
+00:00:07,980 --> 00:00:09,620
+Hombre: No se preocupe, Sra. Hudson. Tranquila.
+
+4
+00:00:09,620 --> 00:00:11,620
+No tenía modo de saberlo.
+
