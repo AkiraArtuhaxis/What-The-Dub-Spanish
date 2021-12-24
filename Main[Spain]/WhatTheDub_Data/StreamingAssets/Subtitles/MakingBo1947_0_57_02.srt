@@ -1,0 +1,8 @@
+1
+00:00:00,240 --> 00:00:03,000
+Narrador: Cada vez que el establecedor de tipo toca una tecla
+
+2
+00:00:03,120 --> 00:00:11,500
+[male_dub]
+

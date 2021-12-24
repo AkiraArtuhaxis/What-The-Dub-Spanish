@@ -1,0 +1,12 @@
+1
+00:00:00,884 --> 00:00:02,619
+Hombre 1: ¿No hay agujero en la parte superior?
+
+2
+00:00:02,686 --> 00:00:04,680
+Hombre 2: ¡A los consumidores les encantará eso!
+
+3
+00:00:04,888 --> 00:00:27,300
+Hombre 1: [male_dub]
+

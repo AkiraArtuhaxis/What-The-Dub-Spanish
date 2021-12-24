@@ -1,0 +1,8 @@
+1
+00:00:00,350 --> 00:00:02,219
+Hombre 1: ¡Oye, ese tipo está hablando de mí!
+
+2
+00:00:02,600 --> 00:00:08,420
+Hombre 2: [male_dub]
+

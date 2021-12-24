@@ -1,0 +1,8 @@
+1
+00:00:00,320 --> 00:00:02,840
+Hombre: Esta es una lección que aprenderás en la escuela algún día...
+
+2
+00:00:03,250 --> 00:00:24,780
+[male_dub]
+

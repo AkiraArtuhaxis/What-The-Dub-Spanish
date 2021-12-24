@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:01,420
+Doctor: Tienes sífilis, Jim.
+
+2
+00:00:01,420 --> 00:00:02,580
+Hombre: ¡¿Oh, estás bromeando?!
+
+3
+00:00:02,640 --> 00:00:05,400
+Narrador: No, el doctor no estaba bromeando.
+
+4
+00:00:05,400 --> 00:00:09,059
+Doctor: [male_dub]
+

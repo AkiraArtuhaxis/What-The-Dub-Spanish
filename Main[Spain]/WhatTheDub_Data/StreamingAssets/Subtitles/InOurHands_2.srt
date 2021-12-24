@@ -1,0 +1,8 @@
+1
+00:00:00,920 --> 00:00:03,180
+Hombre 1: ¡¿No tengo nada que decir sobre esto?!
+
+2
+00:00:03,380 --> 00:00:30,640
+Hombre 2: [male_dub]
+

@@ -1,0 +1,12 @@
+1
+00:00:00,100 --> 00:00:01,740
+Hombre 1: Vaya, tengo una idea...
+
+2
+00:00:01,840 --> 00:00:04,960
+[male_dub]
+
+3
+00:00:04,960 --> 00:00:06,960
+Hombre 2: Pues claro, Bob. ¡Eso sería estupendo!
+

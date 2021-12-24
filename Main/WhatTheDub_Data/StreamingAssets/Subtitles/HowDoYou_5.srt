@@ -1,0 +1,8 @@
+1
+00:00:00,240 --> 00:00:02,880
+Hombre: ¿Ha escuchado la nueva grabación del Concierto para violín de Brahms?
+
+2
+00:00:03,420 --> 00:00:26,620
+Mujer: [female_dub]
+

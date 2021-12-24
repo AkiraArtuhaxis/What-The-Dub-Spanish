@@ -1,0 +1,12 @@
+1
+00:00:00,684 --> 00:00:02,185
+Hombre 1: ¡No puedes entrar ahí!
+
+2
+00:00:02,185 --> 00:00:05,055
+Hombre 2: ¡AHH! ¡Tengo un bebé! ¡El bebé está arriba!
+
+3
+00:00:05,050 --> 00:00:10,020
+Hombre 1: [male_dub]
+

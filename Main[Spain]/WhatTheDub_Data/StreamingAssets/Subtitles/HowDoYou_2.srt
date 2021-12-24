@@ -1,0 +1,12 @@
+1
+00:00:00,300 --> 00:00:01,220
+Hombre 1: ¿Bob?
+
+2
+00:00:01,500 --> 00:00:03,480
+Hombre 1: ¿Te sentiste así cuando te enamoraste de Jean?
+
+3
+00:00:03,620 --> 00:00:23,540
+Hombre 2: [male_dub]
+

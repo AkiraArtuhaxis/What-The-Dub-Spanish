@@ -1,0 +1,12 @@
+1
+00:00:00,080 --> 00:00:01,460
+Hombre: Bueno, he llegado a una decisión.
+
+2
+00:00:01,720 --> 00:00:02,420
+Mujer: ¿Qué es eso?
+
+3
+00:00:03,140 --> 00:00:12,960
+Hombre: [male_dub]
+

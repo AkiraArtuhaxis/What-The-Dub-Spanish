@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:03,760
+Narrador: Es una pena que Janice siempre actúe con tanta superioridad y aburrimiento.
+
+2
+00:00:03,880 --> 00:00:07,080
+[male_dub]
+
