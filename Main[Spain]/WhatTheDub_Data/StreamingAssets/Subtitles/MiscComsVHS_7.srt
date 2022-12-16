@@ -1,0 +1,12 @@
+1
+00:00:00,380 --> 00:00:02,085
+Hombre: El accidente de moto que tuve
+
+2
+00:00:02,085 --> 00:00:03,987
+Hombre: cambió mi vida de la noche a la mañana...
+
+3
+00:00:04,154 --> 00:00:10,380
+[male_dub]
+

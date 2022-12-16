@@ -1,0 +1,8 @@
+1
+00:00:02,260 --> 00:00:04,380
+Hombre: Oye, ¿qué pasó? No me acuerdo de nada.
+
+2
+00:00:04,396 --> 00:00:12,060
+[male_dub]
+

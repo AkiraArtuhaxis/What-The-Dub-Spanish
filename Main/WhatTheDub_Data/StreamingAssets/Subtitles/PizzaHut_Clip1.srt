@@ -1,0 +1,12 @@
+1
+00:00:00,100 --> 00:00:02,120
+Mujer: Porque no solo estamos haciendo pizza...
+
+2
+00:00:02,120 --> 00:00:05,354
+Mujer: ¡Estamos creando una experiencia para nuestros clientes!
+
+3
+00:00:05,350 --> 00:00:12,640
+[female_dub]
+

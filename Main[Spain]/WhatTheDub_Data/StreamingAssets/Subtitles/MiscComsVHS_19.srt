@@ -1,0 +1,8 @@
+1
+00:00:00,200 --> 00:00:02,820
+Hombre: Asegúrate de comprobar la respiración y el pulso del bebé.
+
+2
+00:00:03,340 --> 00:00:10,080
+[male_dub]
+

@@ -1,0 +1,17 @@
+1
+00:00:00,140 --> 00:00:02,140
+Hombre: ¡Ayuda! ¡Ayuda!
+
+2
+00:00:02,400 --> 00:00:03,687
+Hombre: ¡Harry está ahí abajo!
+
+3
+00:00:03,687 --> 00:00:03,700
+[male_dub]
+Hombre: ¡Harry está ahí abajo!
+
+4
+00:00:03,700 --> 00:00:09,040
+[male_dub]
+

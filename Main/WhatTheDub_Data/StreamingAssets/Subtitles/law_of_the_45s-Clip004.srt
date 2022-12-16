@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:02,340
+Hombre 1: ¡Es muy extraño que no podamos llegar al fondo de esto!
+
+2
+00:00:02,360 --> 00:00:03,380
+Hombre 1: ¿Qué está haciendo el alguacil?
+
+3
+00:00:03,400 --> 00:00:05,060
+Multitud: ¡Sí! ¡¿Qué está haciendo el alguacil?!
+
+4
+00:00:05,080 --> 00:00:14,580
+[male_dub]
+

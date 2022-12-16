@@ -1,0 +1,12 @@
+1
+00:00:00,320 --> 00:00:01,818
+Hombre: Viniste a pedirme un consejo.
+
+2
+00:00:01,818 --> 00:00:02,686
+Hombre: Este es mi consejo...
+
+3
+00:00:02,800 --> 00:00:11,020
+[male_dub]
+

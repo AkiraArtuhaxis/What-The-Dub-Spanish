@@ -1,0 +1,12 @@
+1
+00:00:00,140 --> 00:00:03,360
+Mujer: Mi marido Tom fue herido en un accidente de auto hace un año.
+
+2
+00:00:03,900 --> 00:00:05,760
+Mujer: ¡Cambió nuestras vidas de la noche a la mañana!
+
+3
+00:00:06,440 --> 00:00:14,820
+[female_dub]
+

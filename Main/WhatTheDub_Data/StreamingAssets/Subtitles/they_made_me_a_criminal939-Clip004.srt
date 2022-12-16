@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:02,919
+Hombre: ¡Durante diez años me has molestado solo porque cometí un error!
+
+2
+00:00:02,919 --> 00:00:04,388
+Hombre: ¡Bueno, quizás este sea tu error!
+
+3
+00:00:04,480 --> 00:00:10,780
+[male_dub]
+

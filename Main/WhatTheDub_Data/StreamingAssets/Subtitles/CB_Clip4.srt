@@ -1,0 +1,12 @@
+1
+00:00:00,740 --> 00:00:04,721
+[male_dub]
+
+2
+00:00:04,721 --> 00:00:06,757
+Hombre: Bueno, Al. ¡Tú eres el jefe!
+
+3
+00:00:06,750 --> 00:00:11,000
+Hombre: Haremos lo que tú digas.
+

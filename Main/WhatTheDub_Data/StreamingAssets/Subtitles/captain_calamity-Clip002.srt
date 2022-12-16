@@ -1,0 +1,8 @@
+1
+00:00:00,040 --> 00:00:02,600
+Hombre: Bueno, ¿qué te parece? ¿Has tenido suficiente?
+
+2
+00:00:03,780 --> 00:00:13,900
+[male_dub]
+

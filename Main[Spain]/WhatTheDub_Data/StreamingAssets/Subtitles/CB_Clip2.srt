@@ -1,0 +1,8 @@
+1
+00:00:00,260 --> 00:00:02,886
+Hombre: ¿Cuánto nos está costando la pausa para el café?
+
+2
+00:00:02,910 --> 00:00:12,720
+[male_dub]
+

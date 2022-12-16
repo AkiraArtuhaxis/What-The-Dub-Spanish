@@ -1,0 +1,12 @@
+1
+00:00:00,220 --> 00:00:01,980
+Chica: ¿Puedo ofrecerles algo más?
+
+2
+00:00:02,280 --> 00:00:04,600
+Chica: Tenemos una oferta de palomitas de microondas.
+
+3
+00:00:04,720 --> 00:00:15,260
+[female_dub]
+
