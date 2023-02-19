@@ -7,6 +7,6 @@ Hombre 1: Verás, mi chica se casó con el otro tipo...
 Hombre 2: Si algún hombre te roba a tu chica
 
 3
-00:00:05,000 --> 00:00:05,387
+00:00:05,000 --> 00:00:08,260
 [male_dub]
 
