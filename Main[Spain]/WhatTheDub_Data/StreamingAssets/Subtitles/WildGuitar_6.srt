@@ -1,0 +1,8 @@
+1
+00:00:00,220 --> 00:00:02,420
+Hombre: Hola, chico. ¿Vas a algún lado?
+
+2
+00:00:02,640 --> 00:00:09,620
+Chico: [male_dub]
+

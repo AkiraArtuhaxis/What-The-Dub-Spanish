@@ -1,0 +1,8 @@
+1
+00:00:00,140 --> 00:00:01,430
+Mujer: ¿Qué puedo hacer por usted?
+
+2
+00:00:01,430 --> 00:00:10,520
+Hombre: [male_dub]
+

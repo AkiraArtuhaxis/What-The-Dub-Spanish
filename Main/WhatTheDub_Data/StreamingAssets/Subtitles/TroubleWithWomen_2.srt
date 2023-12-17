@@ -1,0 +1,12 @@
+1
+00:00:00,360 --> 00:00:01,580
+Hombre: ¿Qué hay de malo con ella?
+
+2
+00:00:01,852 --> 00:00:03,353
+Hombre 2: Es una mujer, ¿verdad?
+
+3
+00:00:03,350 --> 00:00:08,100
+Hombre 1: [male_dub]
+

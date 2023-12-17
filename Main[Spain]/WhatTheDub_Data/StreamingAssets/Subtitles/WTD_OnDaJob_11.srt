@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:01,685
+Mujer: ¿Cómo te va? Bienvenido a Juego Loco.
+
+2
+00:00:01,680 --> 00:00:02,662
+Mujer: ¿Qué puedo ayudarte a encontrar?
+
+3
+00:00:02,662 --> 00:00:08,708
+Hombre: [male_dub]
+

@@ -1,0 +1,12 @@
+1
+00:00:00,100 --> 00:00:03,399
+Hombre: Yo... podría estar interesado en atenderte.
+
+2
+00:00:03,399 --> 00:00:04,942
+Chico: Vaya, en serio Sr. Macaulay?
+
+3
+00:00:04,940 --> 00:00:12,420
+Hombre: [male_dub]
+

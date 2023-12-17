@@ -1,0 +1,8 @@
+1
+00:00:00,180 --> 00:00:02,230
+Hombre 1: Yo también tengo una casa muy interesante.
+
+2
+00:00:02,230 --> 00:00:04,480
+Hombre 2: [male_dub]
+
