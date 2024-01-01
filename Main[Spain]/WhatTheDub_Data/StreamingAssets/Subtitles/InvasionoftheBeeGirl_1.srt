@@ -4,5 +4,5 @@ Hombre enojado: [male_dub]
 
 2
 00:00:07,020 --> 00:00:14,100
-Sheriff: ¡Está bien, está bien, solo espere un minuto!
+Comisario: Está bien, está bien, ¡espera un minuto!
 

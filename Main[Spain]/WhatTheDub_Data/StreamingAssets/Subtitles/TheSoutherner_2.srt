@@ -1,10 +1,10 @@
 1
 00:00:00,120 --> 00:00:00,540
-Hombre 1: Saludos.
+Hombre 1: Buenas.
 
 2
 00:00:00,580 --> 00:00:01,020
-Hombre 2: Saludos.
+Hombre 2: Buenas.
 
 3
 00:00:01,260 --> 00:00:04,540

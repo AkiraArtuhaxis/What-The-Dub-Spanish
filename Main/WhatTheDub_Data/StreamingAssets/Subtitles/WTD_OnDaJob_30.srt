@@ -4,5 +4,5 @@ Hombre: [male_dub]
 
 2
 00:00:03,360 --> 00:00:05,560
-Mujer: Nah. Está bien.
+Mujer: No. Está bien.
 

@@ -4,7 +4,7 @@ Hombre: ¡OH!
 
 2
 00:00:01,280 --> 00:00:03,280
-Mujer: ¡Oh, lo siento Sr. Roman, se mudó!
+Mujer: Oh, lo siento, Sr. Roman, ¡usted se movió!
 
 3
 00:00:03,280 --> 00:00:08,480

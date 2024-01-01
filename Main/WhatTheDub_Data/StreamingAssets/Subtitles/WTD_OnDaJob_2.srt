@@ -1,14 +1,14 @@
 1
 00:00:00,080 --> 00:00:01,180
-Mujer: ¿Puedo hablar contigo?
+Mujer: ¿Puedo hablar con usted?
 
 2
 00:00:01,260 --> 00:00:02,080
-Hombre: Seguro.
+Hombre: Por supuesto.
 
 3
 00:00:02,200 --> 00:00:03,180
-Hombre: ¿Cuál es el problema?
+Hombre: ¿Qué pasa?
 
 4
 00:00:03,485 --> 00:00:11,310

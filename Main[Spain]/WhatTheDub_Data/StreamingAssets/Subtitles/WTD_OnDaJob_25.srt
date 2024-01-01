@@ -1,6 +1,6 @@
 1
 00:00:00,120 --> 00:00:02,100
-Hombre: Hola Cathy, ¿quieres cenar conmigo esta noche?
+Hombre: Oye, Cathy, ¿quieres cenar conmigo esta noche?
 
 2
 00:00:02,100 --> 00:00:07,131

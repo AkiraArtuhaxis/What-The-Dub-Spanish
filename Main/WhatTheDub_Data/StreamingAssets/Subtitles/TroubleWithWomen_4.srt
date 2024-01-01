@@ -1,6 +1,6 @@
 1
 00:00:00,120 --> 00:00:03,320
-Sr. Bradshaw: Eh, Mertle, lo trasladaremos a la mesa número 10.
+Sr. Bradshaw: Eh, Mertle, te vamos a mover a la mesa 10.
 
 2
 00:00:03,720 --> 00:00:05,240
