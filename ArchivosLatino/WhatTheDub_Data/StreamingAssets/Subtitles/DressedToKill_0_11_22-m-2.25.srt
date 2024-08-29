@@ -1,0 +1,8 @@
+﻿1
+00:00:00,160 --> 00:00:02,140
+Hombre 1: ¿Por qué dice que el robo fue una idiotez, Sr. Emery?
+
+2
+00:00:02,240 --> 00:00:08,740
+Hombre 2: [male_dub]
+

@@ -1,8 +1,0 @@
-1
-00:00:00,951 --> 00:00:03,353
-Chico 1: Es divertido. ¡Mi nombre no está ahí!
-
-2
-00:00:03,350 --> 00:00:14,620
-Chico 2: [male_dub]
-

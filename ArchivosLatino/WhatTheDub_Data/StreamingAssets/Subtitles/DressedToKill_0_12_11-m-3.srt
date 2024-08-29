@@ -1,0 +1,12 @@
+﻿1
+00:00:00,000 --> 00:00:01,440
+Hombre: Esa es una posible explicación.
+
+2
+00:00:01,440 --> 00:00:02,640
+Sin embargo, me atrevo a decir...
+
+3
+00:00:03,020 --> 00:00:09,140
+[male_dub]
+

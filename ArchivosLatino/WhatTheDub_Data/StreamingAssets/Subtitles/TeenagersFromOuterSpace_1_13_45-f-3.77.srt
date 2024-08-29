@@ -1,0 +1,12 @@
+﻿1
+00:00:00,000 --> 00:00:02,160
+Hombre: Betty, no es momento de bromear.
+
+2
+00:00:02,160 --> 00:00:03,560
+Mujer: No estoy bromeando.
+
+3
+00:00:03,760 --> 00:00:08,800
+[female_dub]
+

@@ -1,8 +1,0 @@
-1
-00:00:00,100 --> 00:00:02,519
-Hombre: ¡Parece que mi mujer y yo siempre estamos discutiendo!
-
-2
-00:00:02,519 --> 00:00:10,680
-[male_dub]
-

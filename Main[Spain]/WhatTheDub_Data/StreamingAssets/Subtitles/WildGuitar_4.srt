@@ -1,8 +1,0 @@
-1
-00:00:00,200 --> 00:00:02,100
-Hombre: Déjenme decirles algo, mocosos...
-
-2
-00:00:02,100 --> 00:00:07,940
-[male_dub]
-

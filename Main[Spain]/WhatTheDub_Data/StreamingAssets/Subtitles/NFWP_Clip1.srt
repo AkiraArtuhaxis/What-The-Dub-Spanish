@@ -1,8 +1,0 @@
-1
-00:00:00,380 --> 00:00:03,400
-Mujer: Creo que me convenciste, Ron, pero ¿qué hago ahora?
-
-2
-00:00:03,400 --> 00:00:12,240
-[male_dub]
-

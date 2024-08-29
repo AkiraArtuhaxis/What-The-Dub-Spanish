@@ -1,0 +1,12 @@
+﻿1
+00:00:00,000 --> 00:00:04,420
+Alien: Nuestros barcos han sido avistados en numerosas ocasiones por su gente.
+
+2
+00:00:04,420 --> 00:00:06,420
+Hombre: Entonces, ¿por qué no hemos podido localizar uno?
+
+3
+00:00:06,800 --> 00:00:12,760
+Alien: [male_dub]
+

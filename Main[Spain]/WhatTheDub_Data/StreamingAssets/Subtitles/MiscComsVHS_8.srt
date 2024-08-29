@@ -1,8 +1,0 @@
-1
-00:00:00,080 --> 00:00:02,620
-Narrador: ¡Esta es una noticia de 44 Testigo!
-
-2
-00:00:02,980 --> 00:00:09,680
-[female_dub]
-

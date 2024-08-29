@@ -1,8 +1,0 @@
-1
-00:00:00,740 --> 00:00:03,720
-Mujer: Bueno, no me atendieron mucho en el mostrador de servicio.
-
-2
-00:00:04,440 --> 00:00:11,000
-[female_dub]
-

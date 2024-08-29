@@ -1,0 +1,8 @@
+﻿1
+00:00:03,300 --> 00:00:05,000
+Hombre: ¿Cómo te invitaron a esta fiesta?
+
+2
+00:00:06,960 --> 00:00:12,340
+[male_dub]
+

@@ -1,0 +1,20 @@
+﻿1
+00:00:00,000 --> 00:00:01,140
+Personaje animado: Hasta luego Larry.
+
+2
+00:00:01,540 --> 00:00:02,720
+Chico: Hasta luego Chalky.
+
+3
+00:00:02,720 --> 00:00:03,600
+Personaje animado: No te olvides,
+
+4
+00:00:03,600 --> 00:00:05,840
+en la escuela, y en cualquier otro lugar,
+
+5
+00:00:05,840 --> 00:00:08,660
+[male_dub]
+

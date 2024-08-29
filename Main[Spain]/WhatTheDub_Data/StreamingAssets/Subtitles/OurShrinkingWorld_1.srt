@@ -1,8 +1,0 @@
-1
-00:00:00,000 --> 00:00:03,380
-Narrador: En 1492, Colón discutió la creencia de que...
-
-2
-00:00:03,380 --> 00:00:04,700
-[male_dub]
-

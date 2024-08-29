@@ -1,0 +1,16 @@
+﻿1
+00:00:00,140 --> 00:00:02,540
+Hombre: Mira, ¿qué clase de lugar desplorable es este?
+
+2
+00:00:03,160 --> 00:00:05,520
+Mujer: Un lugar de investigación y descubrimiento.
+
+3
+00:00:05,780 --> 00:00:06,340
+Un lugar donde
+
+4
+00:00:06,340 --> 00:00:11,920
+[female_dub]
+

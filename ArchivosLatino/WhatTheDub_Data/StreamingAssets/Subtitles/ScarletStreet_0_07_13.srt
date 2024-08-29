@@ -1,0 +1,12 @@
+﻿1
+00:00:00,000 --> 00:00:02,360
+Hombre 1: Yo... yo... me pregunto cómo se sentirá.
+
+2
+00:00:02,460 --> 00:00:03,720
+Hombre 2: ¿Qué Chris?
+
+3
+00:00:04,080 --> 00:00:09,380
+Hombre 1: [male_dub]
+

@@ -1,8 +1,0 @@
-1
-00:00:00,283 --> 00:00:02,185
-Chica 1: Háblame de los chicos que has conocido.
-
-2
-00:00:02,180 --> 00:00:09,280
-Chica 2: [female_dub]
-

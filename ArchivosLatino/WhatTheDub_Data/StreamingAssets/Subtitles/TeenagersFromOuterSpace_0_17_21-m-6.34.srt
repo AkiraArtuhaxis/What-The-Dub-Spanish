@@ -1,0 +1,12 @@
+﻿1
+00:00:00,000 --> 00:00:02,540
+Hombre 1: Nunca vi un uniforme como ese antes.
+
+2
+00:00:04,080 --> 00:00:05,680
+¿Qué te trae por aquí?
+
+3
+00:00:06,340 --> 00:00:09,480
+Hombre 2: [male_dub]
+

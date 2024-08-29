@@ -1,0 +1,12 @@
+﻿1
+00:00:00,000 --> 00:00:01,800
+Hombre: Tengo un nuevo trabajo para el periódico.
+
+2
+00:00:01,800 --> 00:00:03,700
+Mujer: Oh Dios, ¿ahora qué, Joe?
+
+3
+00:00:03,700 --> 00:00:08,100
+Hombre: [male_dub]
+

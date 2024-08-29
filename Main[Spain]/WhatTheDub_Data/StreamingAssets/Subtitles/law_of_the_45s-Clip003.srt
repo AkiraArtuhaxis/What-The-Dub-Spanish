@@ -1,8 +1,0 @@
-1
-00:00:00,000 --> 00:00:03,740
-Hombre: ¡Vivíamos en una comunidad pacífica, pero eso ha cambiado!
-
-2
-00:00:03,740 --> 00:00:10,740
-[male_dub]
-

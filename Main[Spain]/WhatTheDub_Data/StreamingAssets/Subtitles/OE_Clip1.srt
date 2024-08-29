@@ -1,8 +1,0 @@
-1
-00:00:00,340 --> 00:00:03,140
-Chica: Tuve la suerte de tener a la Sra. Percel como profesora.
-
-2
-00:00:03,420 --> 00:00:10,240
-[female_dub]
-

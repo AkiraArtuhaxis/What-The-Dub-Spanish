@@ -1,0 +1,12 @@
+﻿1
+00:00:00,000 --> 00:00:02,180
+Hombre: Realizaste un milagro.
+
+2
+00:00:02,900 --> 00:00:05,460
+[male_dub]
+
+3
+00:00:06,540 --> 00:00:11,300
+Estoy orgulloso de tus resultados.
+

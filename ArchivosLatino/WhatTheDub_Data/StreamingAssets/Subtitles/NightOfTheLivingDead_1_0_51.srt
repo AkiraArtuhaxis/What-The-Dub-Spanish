@@ -1,0 +1,20 @@
+﻿1
+00:00:00,260 --> 00:00:03,500
+Hombre 1: Dr. Grimes, todo su personal, lo sé,
+
+2
+00:00:03,500 --> 00:00:06,640
+ha estado trabajando muy duro para encontrar una solución para
+
+3
+00:00:06,640 --> 00:00:08,120
+estas cosas que están sucediendo.
+
+4
+00:00:08,580 --> 00:00:10,200
+¿Tiene alguna respuesta en este momento?
+
+5
+00:00:10,480 --> 00:00:14,580
+Hombre 2: [male_dub]
+

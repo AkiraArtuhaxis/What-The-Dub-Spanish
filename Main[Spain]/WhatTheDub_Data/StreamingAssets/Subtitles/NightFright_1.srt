@@ -1,8 +1,0 @@
-1
-00:00:00,380 --> 00:00:02,580
-Hombre: ¿Qué tal un agradable paseo por el campo?
-
-2
-00:00:02,580 --> 00:00:11,000
-Mujer: [female_dub]
-

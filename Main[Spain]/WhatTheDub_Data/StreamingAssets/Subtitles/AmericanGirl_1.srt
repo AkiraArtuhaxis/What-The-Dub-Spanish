@@ -1,8 +1,0 @@
-1
-00:00:00,484 --> 00:00:05,155
-Chica 1: Muy bien, Bella Durmiente. ¡Despierta! ¡La cena está lista!
-
-2
-00:00:05,750 --> 00:00:21,840
-Chica 2: [female_dub]
-

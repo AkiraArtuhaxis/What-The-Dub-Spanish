@@ -1,0 +1,12 @@
+﻿1
+00:00:00,000 --> 00:00:02,180
+Hombre 1: ¿De qué hablas?
+
+2
+00:00:02,600 --> 00:00:04,500
+¿De dónde has aprendido esas cosas?
+
+3
+00:00:04,680 --> 00:00:08,440
+Hombre 2: [male_dub]
+

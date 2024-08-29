@@ -1,8 +1,0 @@
-1
-00:00:00,000 --> 00:00:05,650
-Mujer: [female_dub]
-
-2
-00:00:06,600 --> 00:00:09,440
-Hombre: Sabes, Mary, ¡es una gran idea la que has tenido!
-

@@ -1,8 +1,0 @@
-1
-00:00:00,520 --> 00:00:02,620
-Mujer: Dicen que hay muchos indios salvajes por aquí.
-
-2
-00:00:02,900 --> 00:00:12,640
-[male_dub]
-

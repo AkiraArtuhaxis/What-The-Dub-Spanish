@@ -1,8 +1,0 @@
-1
-00:00:00,120 --> 00:00:02,160
-Payaso: Díganme, niños, ¿por qué usan zapatillas Keds?
-
-2
-00:00:02,260 --> 00:00:11,260
-[male_dub]
-

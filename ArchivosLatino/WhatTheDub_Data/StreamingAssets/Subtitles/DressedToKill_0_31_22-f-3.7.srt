@@ -1,0 +1,12 @@
+﻿1
+00:00:00,100 --> 00:00:02,820
+Mujer 1: Estoy buscando un regalo de cumpleaños para una niña de siete años. 
+
+2
+00:00:02,820 --> 00:00:03,680
+¿Qué sugiere?
+
+3
+00:00:03,680 --> 00:00:05,800
+Mujer 2: [female_dub]
+

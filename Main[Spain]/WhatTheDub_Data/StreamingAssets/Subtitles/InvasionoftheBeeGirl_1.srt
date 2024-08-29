@@ -1,8 +1,0 @@
-1
-00:00:01,010 --> 00:00:06,820
-Hombre enojado: [male_dub]
-
-2
-00:00:07,020 --> 00:00:14,100
-Comisario: Está bien, está bien, ¡espera un minuto!
-

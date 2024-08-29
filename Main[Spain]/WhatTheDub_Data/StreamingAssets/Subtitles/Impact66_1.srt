@@ -1,8 +1,0 @@
-1
-00:00:00,240 --> 00:00:05,040
-Hombre 1: En realidad no soy el Agente Secreto 007 y 7/8 en absoluto...
-
-2
-00:00:05,280 --> 00:00:27,560
-Hombre 2: [male_dub]
-

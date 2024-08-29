@@ -1,8 +1,0 @@
-1
-00:00:00,000 --> 00:00:02,900
-Hombre: ¿Qué pasa con esta bandeja de hielo? ¡No tiene hielo!
-
-2
-00:00:03,500 --> 00:00:11,000
-[male_dub]
-

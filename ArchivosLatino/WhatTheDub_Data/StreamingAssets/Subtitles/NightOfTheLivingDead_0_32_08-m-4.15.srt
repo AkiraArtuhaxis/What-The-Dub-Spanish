@@ -1,0 +1,8 @@
+﻿1
+00:00:00,880 --> 00:00:04,160
+Locutor de radio: Debido a la amenaza obvia para un número incalculable de ciudadanos
+
+2
+00:00:04,160 --> 00:00:06,900
+[male_dub]
+

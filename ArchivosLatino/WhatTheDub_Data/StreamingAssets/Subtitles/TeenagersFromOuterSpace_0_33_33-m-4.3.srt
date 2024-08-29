@@ -1,0 +1,12 @@
+﻿1
+00:00:00,000 --> 00:00:01,480
+Hombre 1: ¿Derek? ¿Quién es Derek?
+
+2
+00:00:01,880 --> 00:00:04,140
+Hombre 2: Oh, todavía no lo has conocido, ¿verdad?
+
+3
+00:00:04,300 --> 00:00:07,940
+[male_dub]
+

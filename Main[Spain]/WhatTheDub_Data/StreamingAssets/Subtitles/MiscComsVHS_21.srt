@@ -1,8 +1,0 @@
-1
-00:00:00,350 --> 00:00:02,919
-Fred: Hola, me llamo Fred. ¿Por qué pides aventón?
-
-2
-00:00:02,919 --> 00:00:10,160
-[female_dub]
-

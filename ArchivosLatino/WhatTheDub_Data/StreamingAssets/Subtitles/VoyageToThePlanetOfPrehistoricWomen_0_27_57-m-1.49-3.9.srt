@@ -1,0 +1,12 @@
+﻿1
+00:00:00,380 --> 00:00:01,560
+Hombre 1: Estoy empezando a sentir como
+
+2
+00:00:01,560 --> 00:00:03,900
+[male_dub]
+
+3
+00:00:05,080 --> 00:00:06,100
+Hombre 2: Por supuesto.
+

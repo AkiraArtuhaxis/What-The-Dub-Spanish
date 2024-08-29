@@ -1,0 +1,8 @@
+﻿1
+00:00:00,640 --> 00:00:03,640
+Hombre 1: ¿Qué querría un soldado de Francia aquí?
+
+2
+00:00:03,640 --> 00:00:09,880
+Hombre 2: [male_dub]
+

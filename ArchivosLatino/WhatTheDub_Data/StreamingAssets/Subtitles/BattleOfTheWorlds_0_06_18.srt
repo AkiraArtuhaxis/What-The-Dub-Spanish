@@ -1,0 +1,16 @@
+﻿1
+00:00:00,220 --> 00:00:01,940
+Hombre: Debe ayudarme, Sra. Collins.
+
+2
+00:00:02,060 --> 00:00:02,920
+Mujer: ¿Yo?
+
+3
+00:00:02,920 --> 00:00:06,020
+Hombre: [male_dub]
+
+4
+00:00:07,120 --> 00:00:12,600
+Mujer: Conseguiré algunos de inmediato.
+

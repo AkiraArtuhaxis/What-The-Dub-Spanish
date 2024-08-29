@@ -1,8 +1,0 @@
-1
-00:00:00,000 --> 00:00:04,321
-Hombre: Así que aquí estoy, amigo mío. ¡Muy necesitado de dinero!
-
-2
-00:00:04,320 --> 00:00:12,680
-[male_dub]
-

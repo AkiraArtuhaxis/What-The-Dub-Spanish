@@ -1,8 +1,0 @@
-1
-00:00:00,160 --> 00:00:03,080
-Brad: Hola, soy Brad para Copher's U-Pull-It
-
-2
-00:00:03,320 --> 00:00:10,080
-[male_dub]
-

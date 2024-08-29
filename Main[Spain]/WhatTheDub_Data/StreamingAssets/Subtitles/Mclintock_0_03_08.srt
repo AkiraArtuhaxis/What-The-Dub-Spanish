@@ -1,8 +1,0 @@
-1
-00:00:00,000 --> 00:00:02,260
-Hombre: Carlos, ¿qué estás haciendo allí?
-
-2
-00:00:02,380 --> 00:00:15,300
-Chico: [male_dub]
-

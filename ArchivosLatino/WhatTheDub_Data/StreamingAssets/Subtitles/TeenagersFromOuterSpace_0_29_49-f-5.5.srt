@@ -1,0 +1,12 @@
+﻿1
+00:00:00,000 --> 00:00:01,320
+Hombre: Betty dime.
+
+2
+00:00:01,680 --> 00:00:05,300
+¿Cuál es la forma de transporte más avanzada que conoces?
+
+3
+00:00:05,520 --> 00:00:10,440
+Mujer: [female_dub]
+

@@ -1,0 +1,12 @@
+﻿1
+00:00:01,280 --> 00:00:02,980
+Hombre 1: ¿Hay algún doctor en el pueblo?
+
+2
+00:00:03,280 --> 00:00:05,220
+Hombre 2: Su enfermedad no es de la carne.
+
+3
+00:00:05,840 --> 00:00:11,240
+[male_dub]
+

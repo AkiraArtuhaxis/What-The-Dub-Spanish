@@ -1,8 +1,0 @@
-1
-00:00:00,200 --> 00:00:03,580
-Hombre: Aquí, en el noreste de Ohio, las posibilidades son ilimitadas.
-
-2
-00:00:04,200 --> 00:00:09,980
-[male_dub]
-

@@ -1,8 +1,0 @@
-1
-00:00:00,300 --> 00:00:03,620
-Hombre: Tu próxima oportunidad de enviar una postal a tu caballo será en San Francisco.
-
-2
-00:00:03,950 --> 00:00:13,240
-[male_dub]
-

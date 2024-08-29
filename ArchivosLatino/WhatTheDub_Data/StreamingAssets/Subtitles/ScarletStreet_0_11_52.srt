@@ -1,0 +1,16 @@
+﻿1
+00:00:00,000 --> 00:00:02,220
+Mujer: Mis amigos me llaman Kitty.
+
+2
+00:00:02,220 --> 00:00:03,300
+Hombre: (Se ríe)
+
+3
+00:00:03,640 --> 00:00:05,300
+Mujer: ¿Cómo te llaman tus amigos?
+
+4
+00:00:05,980 --> 00:00:08,420
+Hombre: [male_dub]
+

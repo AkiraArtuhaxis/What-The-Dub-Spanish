@@ -1,0 +1,12 @@
+﻿1
+00:00:00,200 --> 00:00:01,720
+Mujer: ¿Estás seguro de que esa es la chica?
+
+2
+00:00:01,840 --> 00:00:04,520
+Hombre: [male_dub]
+
+3
+00:00:04,800 --> 00:00:08,000
+Mujer: Síguela, Hamid.
+

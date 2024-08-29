@@ -1,8 +1,0 @@
-1
-00:00:00,460 --> 00:00:02,896
-Hombre 1: Vaya, qué anzuelo tan raro el que estás arreglando.
-
-2
-00:00:02,930 --> 00:00:10,140
-Hombre 2: [male_dub]
-

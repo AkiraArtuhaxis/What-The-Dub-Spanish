@@ -1,0 +1,12 @@
+﻿1
+00:00:00,300 --> 00:00:02,420
+Hombre 1: Bueno, seguro que no hay humanos aquí.
+
+2
+00:00:02,640 --> 00:00:04,420
+Hombre 2: Pues, somos humanos.
+
+3
+00:00:05,500 --> 00:00:08,420
+Hombre 1: [male_dub]
+

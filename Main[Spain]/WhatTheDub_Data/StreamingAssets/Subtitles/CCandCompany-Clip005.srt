@@ -1,8 +1,0 @@
-1
-00:00:02,152 --> 00:00:04,321
-Hombre: ¿Qué hace una chica como tú pidiendo aventones?
-
-2
-00:00:04,720 --> 00:00:12,700
-[female_dub]
-

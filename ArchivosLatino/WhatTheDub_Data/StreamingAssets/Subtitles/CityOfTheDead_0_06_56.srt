@@ -1,0 +1,16 @@
+﻿1
+00:00:00,000 --> 00:00:02,440
+Hombre: Mañana será mi conferencia final sobre la historia de
+
+2
+00:00:02,440 --> 00:00:04,400
+[male_dub]
+
+3
+00:00:04,440 --> 00:00:05,860
+Traeré algunas ilustraciones,
+
+4
+00:00:05,860 --> 00:00:07,860
+que estoy seguro les interesará a todos.
+

@@ -1,0 +1,20 @@
+﻿1
+00:00:00,000 --> 00:00:01,540
+Hombre: Una deliciosa comida Judy
+
+2
+00:00:01,540 --> 00:00:02,780
+Y estoy muy orgulloso de ti.
+
+3
+00:00:02,780 --> 00:00:03,580
+Mujer: Gracias.
+
+4
+00:00:03,580 --> 00:00:07,620
+[female_dub]
+
+5
+00:00:07,620 --> 00:00:09,620
+Hombre: (Se ríe)
+
